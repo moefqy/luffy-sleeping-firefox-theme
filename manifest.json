@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+  "name": "Luffy Sleeping",
+  "version": "1.0",
+  "description": "A calming night theme featuring Luffy sleeping on a ship under the stars.",
+  "theme": {
+    "images": {
+      "theme_frame": "background.png"
+    },
+    "colors": {
+      "frame": "#000000",
+      "tab_line": "rgba(0, 0, 0, 0.8)",
+      "tab_selected": "rgba(255, 255, 255, 0.7)",
+      "tab_background_text": "rgba(255, 255, 255, 0.5)",
+      "button_background_active": "rgba(255, 255, 255, 0.7)",
+      "button_background_hover": "rgba(255, 255, 255, 0.5)",
+      "bookmark_text": "rgba(255, 255, 255, 1)",
+      "toolbar": "rgba(250, 250, 250, 0.1)",
+      "toolbar_field": "rgba(40, 40, 40, 0.8)",
+      "toolbar_field_text": "rgba(255, 255, 255, 1)",
+      "toolbar_text": "rgba(255, 255, 255, 0.7)",
+      "ntp_background": "rgba(0, 0, 0, 0.8)"
+    }
+  }
+}
